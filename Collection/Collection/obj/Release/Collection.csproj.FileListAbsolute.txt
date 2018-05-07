@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Collection\Collection\bin\Release\Collection.exe.config
+C:\Users\User\source\repos\Collection\Collection\bin\Release\Collection.exe
+C:\Users\User\source\repos\Collection\Collection\bin\Release\Collection.pdb
+C:\Users\User\source\repos\Collection\Collection\obj\Release\Collection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Collection\Collection\obj\Release\Collection.exe
+C:\Users\User\source\repos\Collection\Collection\obj\Release\Collection.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\User\source\repos\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\User\source\repos\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\User\source\repos\Collection\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\User\source\repos\Collection\Collection\obj\Debug\Collection.pdb
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\Collection\Collection\obj\Debug\Collection.pdb
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\Collection\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
