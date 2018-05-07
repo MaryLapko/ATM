@@ -1,0 +1,6 @@
+c:\users\mary_lapko\documents\visual studio 2015\Projects\StringArraySort\StringArraySort\bin\Debug\StringArraySort.exe.config
+c:\users\mary_lapko\documents\visual studio 2015\Projects\StringArraySort\StringArraySort\obj\Debug\StringArraySort.csprojResolveAssemblyReference.cache
+c:\users\mary_lapko\documents\visual studio 2015\Projects\StringArraySort\StringArraySort\bin\Debug\StringArraySort.exe
+c:\users\mary_lapko\documents\visual studio 2015\Projects\StringArraySort\StringArraySort\bin\Debug\StringArraySort.pdb
+c:\users\mary_lapko\documents\visual studio 2015\Projects\StringArraySort\StringArraySort\obj\Debug\StringArraySort.exe
+c:\users\mary_lapko\documents\visual studio 2015\Projects\StringArraySort\StringArraySort\obj\Debug\StringArraySort.pdb
