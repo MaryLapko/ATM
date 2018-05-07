@@ -1,0 +1,10 @@
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FlowersBucket.exe.config
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FlowersBucket.exe
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FlowersBucket.pdb
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\FlowersBucket.csprojResolveAssemblyReference.cache
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\FlowersBucket.exe
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\FlowersBucket.pdb
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\FlowersGirl.Properties.Resources.resources
+C:\Users\Mary_Lapko\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\FlowersBucket.csproj.GenerateResource.Cache

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Bucket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flower xsi:type="Rose">
+    <price>120</price>
+    <currency>BYN</currency>
+    <name>Rose</name>
+    <colour>Red</colour>
+  </Flower>
+  <Flower xsi:type="Lily">
+    <price>100</price>
+    <currency>BYN</currency>
+    <name>Lily</name>
+    <colour>White</colour>
+  </Flower>
+  <Flower xsi:type="Iris">
+    <price>90</price>
+    <currency>BYN</currency>
+    <name>Iris</name>
+    <colour>Blue</colour>
+  </Flower>
+  <Flower xsi:type="Tulip">
+    <price>150</price>
+    <currency>BYN</currency>
+    <name>Tulip</name>
+    <colour>Yellow</colour>
+  </Flower>
+  <Flower xsi:type="Chamomile">
+    <price>52</price>
+    <currency>BYN</currency>
+    <name>Chamomile</name>
+    <colour>White</colour>
+  </Flower>
+</Bucket>

@@ -1,0 +1,6 @@
+Name Price Currency Colour
+Rose 120 BYN Red
+Lily 100 BYN White
+Iris 90 BYN Blue
+Tulip 150 BYN Yellow
+Chamomile 52 BYN White
