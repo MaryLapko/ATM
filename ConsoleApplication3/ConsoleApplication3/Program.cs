@@ -17,7 +17,7 @@ namespace simple_calc
                 double b;
                 double total;
                 char oper;
-                Console.WriteLine("Input number:");
+                Console.WriteLine("Input specific number:");
                 a = Convert.ToDouble(Console.ReadLine());
 
                 Console.WriteLine("Input operator:");
