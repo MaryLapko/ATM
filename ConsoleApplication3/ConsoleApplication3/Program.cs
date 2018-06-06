@@ -20,7 +20,8 @@ namespace simple_calc
                 Console.WriteLine("Input specific number:");
                 a = Convert.ToDouble(Console.ReadLine());
 
-                Console.WriteLine("Input the specific operator:");
+                Console.WriteLine("Input a specific operator:");
+
                 oper = Convert.ToChar(Console.ReadLine());
 
                 Console.WriteLine("Input another number:");
